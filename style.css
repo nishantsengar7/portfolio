@@ -475,6 +475,13 @@ form .btn2{
     .navlist{
         gap: 1rem;
     }
+    .left-container .icons{
+        margin-left: -25px;
+    }
+    .left-container .content {
+        margin-top: 20px;
+        margin-left: 25px
+    }
 }   
 #msg{
     color: green;
