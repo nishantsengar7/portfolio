@@ -479,9 +479,11 @@ form .btn2{
         margin-left: -25px;
     }
     .left-container .content {
-        margin-top: 20px;
+        margin-top: 500px;
         margin-left: 25px
     }
+    .left-container .corona{
+        margin-bottom: 10px;
 }   
 #msg{
     color: green;
