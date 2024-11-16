@@ -43,8 +43,8 @@ body{
 }
 .left-container{
      background: #0d0f18;
-     width: 70%;
-     padding-left: 3rem;
+     width: 100%;
+     padding-left: 0rem;
 }
 .right-container{
      background: linear-gradient(-45deg,#283eff, #131a1d);
@@ -441,9 +441,6 @@ form .btn2{
         height: 100vh;
         width: 100%;
 
-    }
-    .corona button{
-       
     }
     .design .circle{
         width: 30%;
